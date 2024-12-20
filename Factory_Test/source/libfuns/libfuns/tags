@@ -1,0 +1,608 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACCEPT_TIMEOUT	ftplib-3.1-1/src/ftplib.c	62;"	d	file:
+AR	Makefile	/^AR=ar$/;"	m
+AR	inifile-0.2/Makefile	/^AR = ar$/;"	m
+ARFLAGS	Makefile	/^ARFLAGS=-rc$/;"	m
+ARFLAGS	inifile-0.2/Makefile	/^ARFLAGS = -rc$/;"	m
+ATARGET	Makefile	/^ATARGET=$(TARGET).a$/;"	m
+AUDIO_NO_WAIT_STOP	libaudio.h	25;"	d
+AUDIO_WAIT_STOP	libaudio.h	26;"	d
+BADCH	ftplib-3.1-1/vms/getopt.h	11;"	d
+BSC32	ftplib-3.1-1/old/ftpdir.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	ftplib-3.1-1/old/ftpget.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	ftplib-3.1-1/old/ftpsend.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32_FLAGS	ftplib-3.1-1/old/ftpdir.mak	/^BSC32_FLAGS=\/nologo \/o$(OUTDIR)\/"ftpdir.bsc" $/;"	m
+BSC32_FLAGS	ftplib-3.1-1/old/ftpget.mak	/^BSC32_FLAGS=\/nologo \/o$(OUTDIR)\/"ftpget.bsc" $/;"	m
+BSC32_FLAGS	ftplib-3.1-1/old/ftpsend.mak	/^BSC32_FLAGS=\/nologo \/o$(OUTDIR)\/"ftpsend.bsc" $/;"	m
+BSC32_SBRS	ftplib-3.1-1/old/ftpdir.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	ftplib-3.1-1/old/ftpget.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	ftplib-3.1-1/old/ftpsend.mak	/^BSC32_SBRS= \\$/;"	m
+BUF_SIZE	wavplay/wavplay.c	26;"	d	file:
+BUILDING_LIBRARY	ftplib-3.1-1/src/ftplib.c	52;"	d	file:
+CC	Makefile	/^CC=gcc$/;"	m
+CC	inifile-0.2/Makefile	/^CC = gcc$/;"	m
+CFE_MUST_FREE_COMMENT	inifile-0.2/inifile.h	56;"	d
+CFE_MUST_FREE_ID	inifile-0.2/inifile.h	54;"	d
+CFE_MUST_FREE_SECTION	inifile-0.2/inifile.h	53;"	d
+CFE_MUST_FREE_VALUE	inifile-0.2/inifile.h	55;"	d
+CFG	ftplib-3.1-1/old/ftpdir.mak	/^CFG=Win32 Debug$/;"	m
+CFG	ftplib-3.1-1/old/ftpget.mak	/^CFG=Win32 Debug$/;"	m
+CFG	ftplib-3.1-1/old/ftpsend.mak	/^CFG=Win32 Debug$/;"	m
+CFG_CONTINUE	inifile-0.2/inifile.h	90;"	d
+CFG_DEFINE	inifile-0.2/inifile.h	89;"	d
+CFG_EOF	inifile-0.2/inifile.h	85;"	d
+CFG_ERROR	inifile-0.2/inifile.h	87;"	d
+CFG_MAX_LINE_LENGTH	inifile-0.2/inifile.h	39;"	d
+CFG_SECTION	inifile-0.2/inifile.h	88;"	d
+CFG_TYPE	inifile-0.2/inifile.h	93;"	d
+CFG_TYPEMASK	inifile-0.2/inifile.h	92;"	d
+CFG_VALID	inifile-0.2/inifile.h	84;"	d
+CFLAGS	Makefile	/^CFLAGS=-Wall -O2$/;"	m
+CFLAGS	ftplib-3.1-1/src/Makefile	/^CFLAGS = -Wall $(DEBUG) -I. $(INCLUDES) $(DEFINES)$/;"	m
+CFLAGS	inifile-0.2/Makefile	/^CFLAGS = -fPIC$/;"	m
+COPY	Makefile	/^COPY=cp$/;"	m
+COPYFLAG	Makefile	/^COPYFLAG=-rf$/;"	m
+CPP	ftplib-3.1-1/old/ftpdir.mak	/^CPP=cl.exe$/;"	m
+CPP	ftplib-3.1-1/old/ftpget.mak	/^CPP=cl.exe$/;"	m
+CPP	ftplib-3.1-1/old/ftpsend.mak	/^CPP=cl.exe$/;"	m
+CPP_OBJS	ftplib-3.1-1/old/ftpdir.mak	/^CPP_OBJS=.\\WinDebug\/$/;"	m
+CPP_OBJS	ftplib-3.1-1/old/ftpdir.mak	/^CPP_OBJS=.\\WinRel\/$/;"	m
+CPP_OBJS	ftplib-3.1-1/old/ftpget.mak	/^CPP_OBJS=.\\WinDebug\/$/;"	m
+CPP_OBJS	ftplib-3.1-1/old/ftpget.mak	/^CPP_OBJS=.\\WinRel\/$/;"	m
+CPP_OBJS	ftplib-3.1-1/old/ftpsend.mak	/^CPP_OBJS=.\\WinDebug\/$/;"	m
+CPP_OBJS	ftplib-3.1-1/old/ftpsend.mak	/^CPP_OBJS=.\\WinRel\/$/;"	m
+CPP_PROJ	ftplib-3.1-1/old/ftpdir.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/GX \/O2 \/D "NDEBUG" \/D "WIN32" \/D "_CONSOLE" \/D\\$/;"	m
+CPP_PROJ	ftplib-3.1-1/old/ftpdir.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/GX \/Zi \/Od \/D "_DEBUG" \/D "WIN32" \/D "_CONSOLE" \/D\\$/;"	m
+CPP_PROJ	ftplib-3.1-1/old/ftpget.mak	/^CPP_PROJ=\/nologo \/ML \/W3 \/GX \/YX \/O2 \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE"\\$/;"	m
+CPP_PROJ	ftplib-3.1-1/old/ftpget.mak	/^CPP_PROJ=\/nologo \/ML \/W3 \/GX \/Zi \/YX \/Od \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE"\\$/;"	m
+CPP_PROJ	ftplib-3.1-1/old/ftpsend.mak	/^CPP_PROJ=\/nologo \/ML \/W3 \/GX \/YX \/O2 \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE"\\$/;"	m
+CPP_PROJ	ftplib-3.1-1/old/ftpsend.mak	/^CPP_PROJ=\/nologo \/ML \/W3 \/GX \/Zi \/YX \/Od \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE"\\$/;"	m
+CSOURCES	inifile-0.2/Makefile	/^CSOURCES = $(srcdir)\/inifile.c$/;"	m
+DECRYPT	libpriv_crypt.h	22;"	d
+DEF_FILE	ftplib-3.1-1/old/ftpdir.mak	/^DEF_FILE=$/;"	m
+DEF_FILE	ftplib-3.1-1/old/ftpget.mak	/^DEF_FILE=$/;"	m
+DEF_FILE	ftplib-3.1-1/old/ftpsend.mak	/^DEF_FILE=$/;"	m
+DEPFLAGS	ftplib-3.1-1/src/Makefile	/^DEPFLAGS =$/;"	m
+DEP_FTPDI	ftplib-3.1-1/old/ftpdir.mak	/^DEP_FTPDI=\\$/;"	m
+DEP_GETOP	ftplib-3.1-1/old/ftpdir.mak	/^DEP_GETOP=\\$/;"	m
+DEVICE_NAME	wavplay/wavplay.c	27;"	d	file:
+DEV_SOUND	libsound.h	28;"	d
+DIRBUF_SIZE	ftplib-3.1-1/src/qftp.c	60;"	d	file:
+DefaultNetbuf	ftplib-3.1-1/src/ftplib.h	/^netbuf *DefaultNetbuf;$/;"	v
+EMSG	ftplib-3.1-1/vms/getopt.c	16;"	d	file:
+ENCRYPT	libpriv_crypt.h	21;"	d
+ENV_USER	ftplib-3.1-1/old/ftpdir.c	34;"	d	file:
+ENV_USER	ftplib-3.1-1/old/ftpdir.c	37;"	d	file:
+EX_CONNECT	ftplib-3.1-1/src/qftp.c	49;"	d	file:
+EX_CONNECT	ftplib-3.1-1/vms/qftp.c	49;"	d	file:
+EX_LOGIN	ftplib-3.1-1/src/qftp.c	50;"	d	file:
+EX_LOGIN	ftplib-3.1-1/vms/qftp.c	50;"	d	file:
+EX_NETDB	ftplib-3.1-1/src/qftp.c	48;"	d	file:
+EX_NETDB	ftplib-3.1-1/vms/qftp.c	48;"	d	file:
+EX_REMCMD	ftplib-3.1-1/src/qftp.c	51;"	d	file:
+EX_REMCMD	ftplib-3.1-1/vms/qftp.c	51;"	d	file:
+EX_SYNTAX	ftplib-3.1-1/src/qftp.c	47;"	d	file:
+EX_SYNTAX	ftplib-3.1-1/vms/qftp.c	47;"	d	file:
+EX_SYSERR	ftplib-3.1-1/src/qftp.c	52;"	d	file:
+EX_SYSERR	ftplib-3.1-1/vms/qftp.c	52;"	d	file:
+FTPLIB_ASCII	ftplib-3.1-1/src/ftplib.h	46;"	d
+FTPLIB_BINARY	ftplib-3.1-1/src/ftplib.h	49;"	d
+FTPLIB_BUFSIZ	ftplib-3.1-1/src/ftplib.c	61;"	d	file:
+FTPLIB_CALLBACK	ftplib-3.1-1/src/ftplib.h	57;"	d
+FTPLIB_CALLBACKARG	ftplib-3.1-1/src/ftplib.h	59;"	d
+FTPLIB_CALLBACKBYTES	ftplib-3.1-1/src/ftplib.h	60;"	d
+FTPLIB_CONNMODE	ftplib-3.1-1/src/ftplib.h	56;"	d
+FTPLIB_CONTROL	ftplib-3.1-1/src/ftplib.c	64;"	d	file:
+FTPLIB_DEFMODE	ftplib-3.1-1/src/ftplib.c	69;"	d	file:
+FTPLIB_DIR	ftplib-3.1-1/src/ftplib.h	40;"	d
+FTPLIB_DIR_VERBOSE	ftplib-3.1-1/src/ftplib.h	41;"	d
+FTPLIB_FILE_READ	ftplib-3.1-1/src/ftplib.h	42;"	d
+FTPLIB_FILE_WRITE	ftplib-3.1-1/src/ftplib.h	43;"	d
+FTPLIB_IDLETIME	ftplib-3.1-1/src/ftplib.h	58;"	d
+FTPLIB_IMAGE	ftplib-3.1-1/src/ftplib.h	47;"	d
+FTPLIB_PASSIVE	ftplib-3.1-1/src/ftplib.h	52;"	d
+FTPLIB_PORT	ftplib-3.1-1/src/ftplib.h	53;"	d
+FTPLIB_READ	ftplib-3.1-1/src/ftplib.c	65;"	d	file:
+FTPLIB_TEXT	ftplib-3.1-1/src/ftplib.h	48;"	d
+FTPLIB_WRITE	ftplib-3.1-1/src/ftplib.c	66;"	d	file:
+FTP_DIR	ftplib-3.1-1/src/qftp.c	56;"	d	file:
+FTP_DIR	ftplib-3.1-1/vms/qftp.c	56;"	d	file:
+FTP_GET	ftplib-3.1-1/src/qftp.c	55;"	d	file:
+FTP_GET	ftplib-3.1-1/vms/qftp.c	55;"	d	file:
+FTP_LIST	ftplib-3.1-1/src/qftp.c	58;"	d	file:
+FTP_LIST	ftplib-3.1-1/vms/qftp.c	58;"	d	file:
+FTP_RM	ftplib-3.1-1/src/qftp.c	57;"	d	file:
+FTP_RM	ftplib-3.1-1/vms/qftp.c	57;"	d	file:
+FTP_SEND	ftplib-3.1-1/src/qftp.c	54;"	d	file:
+FTP_SEND	ftplib-3.1-1/vms/qftp.c	54;"	d	file:
+FtpAcceptConnection	ftplib-3.1-1/src/ftplib.c	/^static int FtpAcceptConnection(netbuf *nData, netbuf *nControl)$/;"	f	file:
+FtpAccess	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpAccess(const char *path, int typ, int mode, netbuf *nControl,$/;"	f
+FtpCDUp	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpCDUp(netbuf *nControl)$/;"	f
+FtpCallback	ftplib-3.1-1/src/ftplib.h	/^typedef int (*FtpCallback)(netbuf *nControl, int xfered, void *arg);$/;"	t
+FtpChdir	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpChdir(const char *path, netbuf *nControl)$/;"	f
+FtpClose	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpClose(netbuf *nData)$/;"	f
+FtpConnect	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpConnect(const char *host, netbuf **nControl)$/;"	f
+FtpDelete	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpDelete(const char *fnm, netbuf *nControl)$/;"	f
+FtpDir	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpDir(const char *outputfile, const char *path, netbuf *nControl)$/;"	f
+FtpGet	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpGet(const char *outputfile, const char *path,$/;"	f
+FtpInit	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF void FtpInit(void)$/;"	f
+FtpLastResponse	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF char *FtpLastResponse(netbuf *nControl)$/;"	f
+FtpLogin	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpLogin(const char *user, const char *pass, netbuf *nControl)$/;"	f
+FtpMkdir	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpMkdir(const char *path, netbuf *nControl)$/;"	f
+FtpModDate	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpModDate(const char *path, char *dt, int max, netbuf *nControl)$/;"	f
+FtpNlst	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpNlst(const char *outputfile, const char *path,$/;"	f
+FtpOpenPort	ftplib-3.1-1/src/ftplib.c	/^static int FtpOpenPort(netbuf *nControl, netbuf **nData, int mode, int dir)$/;"	f	file:
+FtpOptions	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpOptions(int opt, long val, netbuf *nControl)$/;"	f
+FtpPut	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpPut(const char *inputfile, const char *path, char mode,$/;"	f
+FtpPwd	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpPwd(char *path, int max, netbuf *nControl)$/;"	f
+FtpQuit	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF void FtpQuit(netbuf *nControl)$/;"	f
+FtpRead	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpRead(void *buf, int max, netbuf *nData)$/;"	f
+FtpRename	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpRename(const char *src, const char *dst, netbuf *nControl)$/;"	f
+FtpRmdir	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpRmdir(const char *path, netbuf *nControl)$/;"	f
+FtpSendCmd	ftplib-3.1-1/src/ftplib.c	/^static int FtpSendCmd(const char *cmd, char expresp, netbuf *nControl)$/;"	f	file:
+FtpSite	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpSite(const char *cmd, netbuf *nControl)$/;"	f
+FtpSize	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpSize(const char *path, int *size, char mode, netbuf *nControl)$/;"	f
+FtpSysType	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpSysType(char *buf, int max, netbuf *nControl)$/;"	f
+FtpWrite	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int FtpWrite(void *buf, int len, netbuf *nData)$/;"	f
+FtpXfer	ftplib-3.1-1/src/ftplib.c	/^static int FtpXfer(const char *localfile, const char *path,$/;"	f	file:
+GLOBALDEF	ftplib-3.1-1/src/ftplib.h	28;"	d
+GLOBALDEF	ftplib-3.1-1/src/ftplib.h	32;"	d
+GLOBALREF	ftplib-3.1-1/src/ftplib.h	29;"	d
+GLOBALREF	ftplib-3.1-1/src/ftplib.h	33;"	d
+GLOBALREF	ftplib-3.1-1/src/ftplib.h	35;"	d
+Gb2312CHS_1	libace_lcd.h	36;"	d
+Gb2312CHS_2	libace_lcd.h	37;"	d
+Gb2312CHS_3	libace_lcd.h	38;"	d
+Gb2312CHS_4	libace_lcd.h	39;"	d
+Gb2312CHT_1	libace_lcd.h	41;"	d
+Gb2312CHT_2	libace_lcd.h	42;"	d
+Gb2312CHT_3	libace_lcd.h	43;"	d
+Gb2312CHT_4	libace_lcd.h	44;"	d
+GetPrivateProfileInt	inifile-0.2/inifile.c	/^int GetPrivateProfileInt (char * lpszSection, char * lpszEntry,$/;"	f
+GetPrivateProfileString	inifile-0.2/inifile.c	/^int GetPrivateProfileString (char * lpszSection, char * lpszEntry,$/;"	f
+HSOURCES	inifile-0.2/Makefile	/^HSOURCES = $(srcdir)\/inifile.h$/;"	m
+INCLUDE_DIR	Makefile	/^INCLUDE_DIR=\/usr\/include\/$/;"	m
+INSTALL_DIR	Makefile	/^INSTALL_DIR=\/usr\/lib\/$/;"	m
+INTDIR	ftplib-3.1-1/old/ftpdir.mak	/^INTDIR=.\\WinDebug$/;"	m
+INTDIR	ftplib-3.1-1/old/ftpdir.mak	/^INTDIR=.\\WinRel$/;"	m
+INTDIR	ftplib-3.1-1/old/ftpget.mak	/^INTDIR=.\\WinDebug$/;"	m
+INTDIR	ftplib-3.1-1/old/ftpget.mak	/^INTDIR=.\\WinRel$/;"	m
+INTDIR	ftplib-3.1-1/old/ftpsend.mak	/^INTDIR=.\\WinDebug$/;"	m
+INTDIR	ftplib-3.1-1/old/ftpsend.mak	/^INTDIR=.\\WinRel$/;"	m
+ISO14443_CMD_INIT	libiso14443hex.c	36;"	d	file:
+ISO14443_CMD_SAM_CMD	libiso14443hex.c	39;"	d	file:
+ISO14443_CMD_SAM_RST	libiso14443hex.c	38;"	d	file:
+ISO14443_CMD_SCK_SET	libiso14443hex.c	37;"	d	file:
+LCDCMD_CLEARPAN	libace_lcd.h	48;"	d
+LCDCMD_CLOSEPAN	libace_lcd.h	51;"	d
+LCDCMD_DISPICON	libace_lcd.h	52;"	d
+LCDCMD_OPENPAN	libace_lcd.h	50;"	d
+LCDCMD_SETPANLIGHT	libace_lcd.h	49;"	d
+LCDCMD_SETPANTIME	libace_lcd.h	54;"	d
+LCDCMD_STARTTIMEWINDOW	libace_lcd.h	55;"	d
+LCDCMD_STOPTIMEWINDOW	libace_lcd.h	56;"	d
+LCDCMD_VIEWWORD	libace_lcd.h	53;"	d
+LCD_CL_BLACK	libace_lcd.h	30;"	d
+LCD_CL_BLUE	libace_lcd.h	27;"	d
+LCD_CL_GREEN	libace_lcd.h	28;"	d
+LCD_CL_NOBACKCOLOR	libace_lcd.h	25;"	d
+LCD_CL_RED	libace_lcd.h	29;"	d
+LCD_CL_WHITE	libace_lcd.h	31;"	d
+LCD_CL_YELLOW	libace_lcd.h	26;"	d
+LCD_PIC_DEFADDR	libace_lcd.h	71;"	d
+LCD_PIC_SIZE	libace_lcd.h	72;"	d
+LDCONFIG	Makefile	/^LDCONFIG=ldconfig$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS=$/;"	m
+LDFLAGS	ftplib-3.1-1/src/Makefile	/^LDFLAGS = -L.$/;"	m
+LEN_OF_KEY	3des/test.c	42;"	d	file:
+LIBCONV_BCD2HEX	libconv.h	23;"	d
+LIBCONV_HEX2BCD	libconv.h	27;"	d
+LIBISO14443_ERR_CHKSUM	libiso14443hex.h	24;"	d
+LIBISO14443_ERR_ID	libiso14443hex.h	25;"	d
+LIBISO14443_ERR_LEN	libiso14443hex.h	26;"	d
+LIBISO14443_ERR_MINLEN	libiso14443hex.h	27;"	d
+LIBISO14443_ERR_NONE	libiso14443hex.h	22;"	d
+LIBISO14443_ERR_SAM_ST	libiso14443hex.h	28;"	d
+LIBISO14443_ERR_TIMOUT	libiso14443hex.h	23;"	d
+LINK32	ftplib-3.1-1/old/ftpdir.mak	/^LINK32=link.exe$/;"	m
+LINK32	ftplib-3.1-1/old/ftpget.mak	/^LINK32=link.exe$/;"	m
+LINK32	ftplib-3.1-1/old/ftpsend.mak	/^LINK32=link.exe$/;"	m
+LINK32_FLAGS	ftplib-3.1-1/old/ftpdir.mak	/^LINK32_FLAGS=windebug\/ftplib.lib wsock32.lib \/NOLOGO \/SUBSYSTEM:console\\$/;"	m
+LINK32_FLAGS	ftplib-3.1-1/old/ftpdir.mak	/^LINK32_FLAGS=winrel\/ftplib.lib wsock32.lib \/NOLOGO \/SUBSYSTEM:console\\$/;"	m
+LINK32_FLAGS	ftplib-3.1-1/old/ftpget.mak	/^LINK32_FLAGS=windebug\/ftplib.lib wsock32.lib \/NOLOGO \/SUBSYSTEM:console\\$/;"	m
+LINK32_FLAGS	ftplib-3.1-1/old/ftpget.mak	/^LINK32_FLAGS=winrel\/ftplib.lib wsock32.lib \/NOLOGO \/SUBSYSTEM:console\\$/;"	m
+LINK32_FLAGS	ftplib-3.1-1/old/ftpsend.mak	/^LINK32_FLAGS=windebug\/ftplib.lib wsock32.lib \/NOLOGO \/SUBSYSTEM:console\\$/;"	m
+LINK32_FLAGS	ftplib-3.1-1/old/ftpsend.mak	/^LINK32_FLAGS=winrel\/ftplib.lib wsock32.lib \/NOLOGO \/SUBSYSTEM:console\\$/;"	m
+LINK32_OBJS	ftplib-3.1-1/old/ftpdir.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	ftplib-3.1-1/old/ftpget.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	ftplib-3.1-1/old/ftpsend.mak	/^LINK32_OBJS= \\$/;"	m
+MACHID_H	libiso14443hex.c	33;"	d	file:
+MACHID_L	libiso14443hex.c	32;"	d	file:
+MAX_LCD_HEIGHT	libace_lcd.h	67;"	d
+MAX_LCD_LIGHT	libace_lcd.h	59;"	d
+MAX_LCD_PIC_NUM	libace_lcd.h	70;"	d
+MAX_LCD_WIDTH	libace_lcd.h	64;"	d
+MIN_LCD_HEIGHT	libace_lcd.h	66;"	d
+MIN_LCD_LIGHT	libace_lcd.h	60;"	d
+MIN_LCD_WIDTH	libace_lcd.h	63;"	d
+MKDIR	Makefile	/^MKDIR=mkdir$/;"	m
+MKDIRFLAG	Makefile	/^MKDIRFLAG=-p$/;"	m
+MP3PLAYER	libaudio.c	31;"	d	file:
+MP3PLAY_ALSA	libaudio.c	34;"	d	file:
+NetBuf	ftplib-3.1-1/src/ftplib.c	/^struct NetBuf {$/;"	s	file:
+OBJECTS	ftplib-3.1-1/src/Makefile	/^OBJECTS = qftp.o ftplib.o$/;"	m
+OBJECTS	inifile-0.2/Makefile	/^OBJECTS = inifile.o$/;"	m
+OUTDIR	ftplib-3.1-1/old/ftpdir.mak	/^OUTDIR=.\\WinDebug$/;"	m
+OUTDIR	ftplib-3.1-1/old/ftpdir.mak	/^OUTDIR=.\\WinRel$/;"	m
+OUTDIR	ftplib-3.1-1/old/ftpget.mak	/^OUTDIR=.\\WinDebug$/;"	m
+OUTDIR	ftplib-3.1-1/old/ftpget.mak	/^OUTDIR=.\\WinRel$/;"	m
+OUTDIR	ftplib-3.1-1/old/ftpsend.mak	/^OUTDIR=.\\WinDebug$/;"	m
+OUTDIR	ftplib-3.1-1/old/ftpsend.mak	/^OUTDIR=.\\WinRel$/;"	m
+O_BINARY	inifile-0.2/inifile.c	45;"	d	file:
+PACKHEAD_AA	libiso14443hex.c	29;"	d	file:
+PACKHEAD_BB	libiso14443hex.c	30;"	d	file:
+PCFGENTRY	inifile-0.2/inifile.h	/^TCFGENTRY, *PCFGENTRY;$/;"	t	typeref:struct:TCFGENTRY
+PCONFIG	inifile-0.2/inifile.h	/^TCONFIG, *PCONFIG;$/;"	t	typeref:struct:TCFGDATA
+PICC_AUTHA	libiso14443a.h	22;"	d
+PICC_AUTHB	libiso14443a.h	23;"	d
+PICC_DEC	libiso14443a.h	25;"	d
+PICC_INC	libiso14443a.h	26;"	d
+RECV_PACKBUF_MAX_NUM	libiso14443hex.h	30;"	d
+REMFILE	ftplib-3.1-1/src/qftp.c	/^struct REMFILE {$/;"	s	file:
+RM	Makefile	/^RM=rm$/;"	m
+RMFLAGS	Makefile	/^RMFLAGS=-rf$/;"	m
+RSC	ftplib-3.1-1/old/ftpdir.mak	/^RSC=rc.exe$/;"	m
+RSC	ftplib-3.1-1/old/ftpget.mak	/^RSC=rc.exe$/;"	m
+RSC	ftplib-3.1-1/old/ftpsend.mak	/^RSC=rc.exe$/;"	m
+SAM_B115200	libiso7816.h	33;"	d
+SAM_B19200	libiso7816.h	30;"	d
+SAM_B38400	libiso7816.h	31;"	d
+SAM_B57600	libiso7816.h	32;"	d
+SAM_B9600	libiso7816.h	29;"	d
+SAM_SEL_SK1	libiso7816.h	22;"	d
+SAM_SEL_SK2	libiso7816.h	23;"	d
+SAM_SEL_SK3	libiso7816.h	24;"	d
+SAM_SEL_SK4	libiso7816.h	25;"	d
+SETSOCKOPT_OPTVAL_TYPE	ftplib-3.1-1/src/ftplib.c	56;"	d	file:
+SETSOCKOPT_OPTVAL_TYPE	ftplib-3.1-1/src/ftplib.c	58;"	d	file:
+SHAREFLAGS	Makefile	/^SHAREFLAGS=-fpic -shared$/;"	m
+SHARE_LIBS	inifile-0.2/Makefile	/^SHARE_LIBS = libinifile.so$/;"	m
+SHELL	inifile-0.2/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SND_LDFLAGS	Makefile	/^SND_LDFLAGS=-lasound$/;"	m
+SONAME	ftplib-3.1-1/src/Makefile	/^SONAME = 3$/;"	m
+SOURCE	ftplib-3.1-1/old/ftpdir.mak	/^SOURCE=.\\GETOPT.C$/;"	m
+SOURCE	ftplib-3.1-1/old/ftpdir.mak	/^SOURCE=.\\ftpdir.c$/;"	m
+SOURCE	ftplib-3.1-1/old/ftpget.mak	/^SOURCE=.\\ftpget.c$/;"	m
+SOURCE	ftplib-3.1-1/old/ftpsend.mak	/^SOURCE=.\\ftpsend.c$/;"	m
+SOURCES	ftplib-3.1-1/src/Makefile	/^SOURCES = qftp.c ftplib.c$/;"	m
+SOVERSION	ftplib-3.1-1/src/Makefile	/^SOVERSION = $(SONAME).1$/;"	m
+STARGET	Makefile	/^STARGET=$(TARGET).so$/;"	m
+STATIC_LIBS	inifile-0.2/Makefile	/^STATIC_LIBS = libinifile.a$/;"	m
+S_ISDIR	ftplib-3.1-1/old/ftpsend.c	38;"	d	file:
+S_ISDIR	ftplib-3.1-1/src/qftp.c	43;"	d	file:
+S_ISDIR	ftplib-3.1-1/vms/qftp.c	43;"	d	file:
+TARGET	Makefile	/^TARGET=libmyfuns$/;"	m
+TARGETS	ftplib-3.1-1/src/Makefile	/^TARGETS = qftp libftp.a libftp.so$/;"	m
+TCFGDATA	inifile-0.2/inifile.h	/^typedef struct TCFGDATA$/;"	s
+TCFGENTRY	inifile-0.2/inifile.h	/^TCFGENTRY, *PCFGENTRY;$/;"	t	typeref:struct:TCFGENTRY
+TCFGENTRY	inifile-0.2/inifile.h	/^typedef struct TCFGENTRY$/;"	s
+TCONFIG	inifile-0.2/inifile.h	/^TCONFIG, *PCONFIG;$/;"	t	typeref:struct:TCFGDATA
+WAVPLAYER	libaudio.c	32;"	d	file:
+WritePrivateProfileString	inifile-0.2/inifile.c	/^int WritePrivateProfileString (char * lpszSection, char * lpszEntry,$/;"	f
+_GETOPT_	ftplib-3.1-1/vms/getopt.h	2;"	d
+_INIFILE_H	inifile-0.2/inifile.h	27;"	d
+_LIB3DES_H_	libpriv_crypt.h	19;"	d
+__FTPLIB_H	ftplib-3.1-1/src/ftplib.h	25;"	d
+__LIBACE_LCD_H__	libace_lcd.h	19;"	d
+__LIBAUDIO_H__	libaudio.h	20;"	d
+__LIBCONV_H__	libconv.h	19;"	d
+__LIBDEBUG_H__	libdebug.h	19;"	d
+__LIBISO14443A_H__	libiso14443a.h	20;"	d
+__LIBISO14443HEX_H__	libiso14443hex.h	19;"	d
+__LIBISO7816_H__	libiso7816.h	19;"	d
+__LIBMISC_H__	libmisc.h	19;"	d
+__LIBSERIAL_H__	libserial.h	19;"	d
+__LIBSOUND_H__	libsound.h	22;"	d
+__LIBTM_H__	libtm.h	19;"	d
+__LIBTYPES_H__	libtypes.h	19;"	d
+_cfg_getline	inifile-0.2/inifile.c	/^_cfg_getline (char **pCp, char **pLinePtr)$/;"	f	file:
+_cfg_outputformatted	inifile-0.2/inifile.c	/^_cfg_outputformatted (PCONFIG pconfig, FILE *fd)$/;"	f	file:
+_cfg_parse	inifile-0.2/inifile.c	/^_cfg_parse (PCONFIG pconfig)$/;"	f	file:
+_cfg_poolalloc	inifile-0.2/inifile.c	/^_cfg_poolalloc (PCONFIG p, unsigned int count)$/;"	f	file:
+_cfg_skipwhite	inifile-0.2/inifile.c	/^_cfg_skipwhite (char *s)$/;"	f	file:
+action	ftplib-3.1-1/src/qftp.c	/^static int action = 0;$/;"	v	file:
+action	ftplib-3.1-1/vms/qftp.c	/^static int action = 0;$/;"	v	file:
+alsa_snd_close	libsound.c	/^void alsa_snd_close(void)$/;"	f
+alsa_snd_init	libsound.c	/^void alsa_snd_init(void)$/;"	f
+alsa_snd_read	libsound.c	/^int alsa_snd_read(void)$/;"	f
+alsa_snd_write	libsound.c	/^void alsa_snd_write(int leftright)$/;"	f
+audio_buffer	wavplay/wavplay.c	/^static unsigned char audio_buffer[BUF_SIZE];$/;"	v	file:
+audio_fd	wavplay/wavplay.c	/^static int audio_fd; \/\/声卡$/;"	v	file:
+audio_rate	wavplay/wavplay.c	/^static unsigned int audio_rate;$/;"	v	file:
+bool	libtypes.h	/^typedef int	bool;$/;"	t
+buf	ftplib-3.1-1/src/ftplib.c	/^    char *buf;$/;"	m	struct:NetBuf	file:
+buf	libiso14443hex.h	/^	uint8_t		buf[RECV_PACKBUF_MAX_NUM];	\/\/ 数据$/;"	m	struct:libiso14443hex_package
+buflen	libiso14443hex.h	/^	uint16_t	buflen;		\/\/ 数据长度$/;"	m	struct:libiso14443hex_package
+cavail	ftplib-3.1-1/src/ftplib.c	/^    int cavail,cleft;$/;"	m	struct:NetBuf	file:
+cbbytes	ftplib-3.1-1/src/ftplib.c	/^    int cbbytes;$/;"	m	struct:NetBuf	file:
+cfg_commit	inifile-0.2/inifile.c	/^cfg_commit (PCONFIG pconfig)$/;"	f
+cfg_cont	inifile-0.2/inifile.h	98;"	d
+cfg_define	inifile-0.2/inifile.h	97;"	d
+cfg_done	inifile-0.2/inifile.c	/^cfg_done (PCONFIG pconfig)$/;"	f
+cfg_eof	inifile-0.2/inifile.h	95;"	d
+cfg_file_exist	inifile-0.2/inifile.c	/^cfg_file_exist (const char *filename)$/;"	f
+cfg_find	inifile-0.2/inifile.c	/^cfg_find (PCONFIG pconfig, char *section, char *id)$/;"	f
+cfg_freeimage	inifile-0.2/inifile.c	/^cfg_freeimage (PCONFIG pconfig)$/;"	f
+cfg_get_item	inifile-0.2/inifile.c	/^int cfg_get_item (PCONFIG pconfig, char *section, char *id, char * fmt, ...)$/;"	f
+cfg_getint	inifile-0.2/inifile.c	/^int cfg_getint (PCONFIG pconfig, char *section, char *id, int *valptr)$/;"	f
+cfg_getlong	inifile-0.2/inifile.c	/^int cfg_getlong (PCONFIG pconfig, char *section, char *id, long *valptr)$/;"	f
+cfg_getstring	inifile-0.2/inifile.c	/^int cfg_getstring (PCONFIG pconfig, char *section, char *id, char *valptr)$/;"	f
+cfg_init	inifile-0.2/inifile.c	/^cfg_init (PCONFIG *ppconf, const char *filename, int doCreate)$/;"	f
+cfg_next_section	inifile-0.2/inifile.c	/^cfg_next_section(PCONFIG pconfig)$/;"	f
+cfg_nextentry	inifile-0.2/inifile.c	/^cfg_nextentry (PCONFIG pconfig)$/;"	f
+cfg_refresh	inifile-0.2/inifile.c	/^cfg_refresh (PCONFIG pconfig)$/;"	f
+cfg_rewind	inifile-0.2/inifile.c	/^cfg_rewind (PCONFIG pconfig)$/;"	f
+cfg_section	inifile-0.2/inifile.h	96;"	d
+cfg_storeentry	inifile-0.2/inifile.c	/^cfg_storeentry ($/;"	f
+cfg_valid	inifile-0.2/inifile.h	94;"	d
+cfg_write	inifile-0.2/inifile.c	/^cfg_write ($/;"	f
+cfg_write_item	inifile-0.2/inifile.c	/^int cfg_write_item(PCONFIG pconfig, char *section, char *id, char * fmt, ...)$/;"	f
+cget	ftplib-3.1-1/src/ftplib.c	/^    char *cput,*cget;$/;"	m	struct:NetBuf	file:
+change_directory	ftplib-3.1-1/src/qftp.c	/^void change_directory(char *root)$/;"	f
+change_directory	ftplib-3.1-1/vms/qftp.c	/^void change_directory(char *root)$/;"	f
+cleft	ftplib-3.1-1/src/ftplib.c	/^    int cavail,cleft;$/;"	m	struct:NetBuf	file:
+cmd	libiso14443hex.h	/^	uint8_t		cmd;		\/\/ 命令码$/;"	m	struct:libiso14443hex_package
+cmode	ftplib-3.1-1/src/ftplib.c	/^    int cmode;$/;"	m	struct:NetBuf	file:
+comment	inifile-0.2/inifile.h	/^    char *comment;$/;"	m	struct:TCFGDATA
+comment	inifile-0.2/inifile.h	/^    char *comment;$/;"	m	struct:TCFGENTRY
+conn	ftplib-3.1-1/src/qftp.c	/^static netbuf *conn = NULL;$/;"	v	file:
+conn	ftplib-3.1-1/vms/qftp.c	/^static netbuf *conn = NULL;$/;"	v	file:
+cput	ftplib-3.1-1/src/ftplib.c	/^    char *cput,*cget;$/;"	m	struct:NetBuf	file:
+ctrl	ftplib-3.1-1/src/ftplib.c	/^    netbuf *ctrl;$/;"	m	struct:NetBuf	file:
+curply_pid	libaudio.c	/^static pid_t curply_pid = -1;$/;"	v	file:
+cursor	inifile-0.2/inifile.h	/^    unsigned int cursor;$/;"	m	struct:TCFGDATA
+data	ftplib-3.1-1/src/ftplib.c	/^    netbuf *data;    $/;"	m	struct:NetBuf	file:
+date_type	libtm.h	/^typedef struct date_type{$/;"	s
+date_type_t	libtm.h	/^}date_type_t;$/;"	t	typeref:struct:date_type
+day	libtm.h	/^    char	day;$/;"	m	struct:time_type
+day	libtm.h	/^    int day;$/;"	m	struct:date_type
+dir	ftplib-3.1-1/src/ftplib.c	/^    int dir;$/;"	m	struct:NetBuf	file:
+dirty	inifile-0.2/inifile.h	/^    int dirty;			\/* Did we make modifications? *\/$/;"	m	struct:TCFGDATA
+entries	inifile-0.2/inifile.h	/^    PCFGENTRY entries;$/;"	m	struct:TCFGDATA
+error	ftplib-3.1-1/vms/getopt.c	/^error(char *pch)$/;"	f	file:
+fileName	inifile-0.2/inifile.h	/^    char *fileName;		\/* Current file name *\/$/;"	m	struct:TCFGDATA
+file_fd	wavplay/wavplay.c	/^static FILE *file_fd; \/\/文件$/;"	v	file:
+file_len	wavplay/wavplay.c	/^static int file_len; \/\/文件长度$/;"	v	file:
+file_name_creat	wavplay/wavplay.c	/^static unsigned char *file_name_creat;$/;"	v	file:
+flags	inifile-0.2/inifile.h	/^    unsigned short flags;$/;"	m	struct:TCFGDATA
+flags	inifile-0.2/inifile.h	/^    unsigned short flags;$/;"	m	struct:TCFGENTRY
+fnm	ftplib-3.1-1/src/qftp.c	/^    char *fnm;$/;"	m	struct:REMFILE	file:
+fsz	ftplib-3.1-1/src/qftp.c	/^    int fsz;$/;"	m	struct:REMFILE	file:
+ftpChdir	ftplib-3.1-1/src/ftplib.h	79;"	d
+ftpDelete	ftplib-3.1-1/src/ftplib.h	86;"	d
+ftpDir	ftplib-3.1-1/src/ftplib.h	82;"	d
+ftpGet	ftplib-3.1-1/src/ftplib.h	83;"	d
+ftpInit	ftplib-3.1-1/src/ftplib.h	74;"	d
+ftpLogin	ftplib-3.1-1/src/ftplib.h	76;"	d
+ftpMkdir	ftplib-3.1-1/src/ftplib.h	78;"	d
+ftpNlst	ftplib-3.1-1/src/ftplib.h	81;"	d
+ftpOpen	ftplib-3.1-1/src/ftplib.h	75;"	d
+ftpPut	ftplib-3.1-1/src/ftplib.h	84;"	d
+ftpQuit	ftplib-3.1-1/src/ftplib.h	87;"	d
+ftpRename	ftplib-3.1-1/src/ftplib.h	85;"	d
+ftpRmdir	ftplib-3.1-1/src/ftplib.h	80;"	d
+ftpSite	ftplib-3.1-1/src/ftplib.h	77;"	d
+ftp_connect	ftplib-3.1-1/src/qftp.c	/^void ftp_connect(void)$/;"	f
+ftp_connect	ftplib-3.1-1/vms/qftp.c	/^void ftp_connect(void)$/;"	f
+ftpdir	ftplib-3.1-1/old/ftpdir.c	/^static int ftpdir(char *host, char *user, char *pass, char *root, char *fspec)$/;"	f	file:
+ftpget	ftplib-3.1-1/old/ftpget.c	/^int ftpget(char *host, char *user, char *pass, char *root, char mode)$/;"	f
+ftplib_debug	ftplib-3.1-1/src/ftplib.c	/^GLOBALDEF int ftplib_debug = 0;$/;"	v
+ftplib_debug	ftplib-3.1-1/src/ftplib.h	/^GLOBALREF int ftplib_debug;$/;"	v
+ftplib_lastresp	ftplib-3.1-1/src/ftplib.h	73;"	d
+ftpsend	ftplib-3.1-1/old/ftpsend.c	/^int ftpsend(char *host, char *user, char *pass, char *root, char mode)$/;"	f
+getopt	ftplib-3.1-1/vms/getopt.c	/^getopt(int argc, char **argv, char *ostr)$/;"	f
+glcd_fd	libace_lcd.c	/^static int glcd_fd = -1;			\/* 串口描述符 *\/$/;"	v	file:
+grf_fd	libiso14443a.c	/^static int grf_fd = -1;			\/* 串口描述符 *\/$/;"	v	file:
+grf_fd	libiso14443hex.c	/^static int grf_fd = -1;			\/* 串口描述符 *\/$/;"	v	file:
+gsam_fd	libiso7816.c	/^static int gsam_fd = -1;			\/* 串口描述符 *\/$/;"	v	file:
+handle	ftplib-3.1-1/src/ftplib.c	/^    int handle;$/;"	m	struct:NetBuf	file:
+host	ftplib-3.1-1/src/qftp.c	/^static char *host = NULL;$/;"	v	file:
+host	ftplib-3.1-1/vms/qftp.c	/^static char *host = NULL;$/;"	v	file:
+hour	libtm.h	/^    char	hour;$/;"	m	struct:time_type
+id	inifile-0.2/inifile.h	/^    char *id;$/;"	m	struct:TCFGDATA
+id	inifile-0.2/inifile.h	/^    char *id;$/;"	m	struct:TCFGENTRY
+idlearg	ftplib-3.1-1/src/ftplib.c	/^    void *idlearg;$/;"	m	struct:NetBuf	file:
+idlecb	ftplib-3.1-1/src/ftplib.c	/^    FtpCallback idlecb;$/;"	m	struct:NetBuf	file:
+idletime	ftplib-3.1-1/src/ftplib.c	/^    struct timeval idletime;$/;"	m	struct:NetBuf	typeref:struct:NetBuf::timeval	file:
+image	inifile-0.2/inifile.h	/^    char *image;		\/* In-memory copy of the file *\/$/;"	m	struct:TCFGDATA
+invocation	ftplib-3.1-1/src/qftp.c	/^static char *invocation;$/;"	v	file:
+invocation	ftplib-3.1-1/vms/qftp.c	/^static char *invocation;$/;"	v	file:
+iseolchar	inifile-0.2/inifile.c	255;"	d	file:
+iso14443hex_package_t	libiso14443hex.h	/^}iso14443hex_package_t;$/;"	t	typeref:struct:libiso14443hex_package
+iswhite	inifile-0.2/inifile.c	256;"	d	file:
+libace_lcd_chk_xy	libace_lcd.c	/^static void	libace_lcd_chk_xy(uint16_t *X, uint16_t *Y)$/;"	f	file:
+libace_lcd_clear	libace_lcd.c	/^int	libace_lcd_clear(uint16_t X, uint16_t Y, uint16_t nWidth, uint16_t nHeight, uint16_t nColor)$/;"	f
+libace_lcd_close	libace_lcd.c	/^int	libace_lcd_close(void)$/;"	f
+libace_lcd_fullshowpic_num	libace_lcd.c	/^int	libace_lcd_fullshowpic_num(uint8_t PicNum)$/;"	f
+libace_lcd_open	libace_lcd.c	/^int	libace_lcd_open(char *dev, int speed)$/;"	f
+libace_lcd_openclose_disp	libace_lcd.c	/^int	libace_lcd_openclose_disp(uint8_t sCmd)$/;"	f
+libace_lcd_serial_write	libace_lcd.c	/^static int	libace_lcd_serial_write(int fd, const uint8_t *buf, const uint16_t buflen)$/;"	f	file:
+libace_lcd_setlight	libace_lcd.c	/^int	libace_lcd_setlight(uint8_t nLight)$/;"	f
+libace_lcd_settime	libace_lcd.c	/^int	libace_lcd_settime(void)$/;"	f
+libace_lcd_showords	libace_lcd.c	/^int	libace_lcd_showords(const char *Word, uint16_t WordLen,$/;"	f
+libace_lcd_showpic	libace_lcd.c	/^int	libace_lcd_showpic(uint32_t PicAddr, uint16_t PicX, uint16_t PicY,$/;"	f
+libace_lcd_sizeshowpic_num	libace_lcd.c	/^int	libace_lcd_sizeshowpic_num(uint8_t PicNum, uint16_t PicWidth, uint16_t PicHeight)$/;"	f
+libace_lcd_stoptime	libace_lcd.c	/^int	libace_lcd_stoptime(void)$/;"	f
+libace_lcd_viewtime	libace_lcd.c	/^int	libace_lcd_viewtime(uint16_t X, uint16_t Y, $/;"	f
+libaudio_alsa_adjuest_the_volume	libaudio.c	/^int libaudio_alsa_adjuest_the_volume(int leftright_vol)$/;"	f
+libaudio_continue_play	libaudio.c	/^int libaudio_continue_play(void)$/;"	f
+libaudio_kill_play	libaudio.c	/^int libaudio_kill_play(void)$/;"	f
+libaudio_oss_adjust_the_volume	libaudio.c	/^int libaudio_oss_adjust_the_volume(char *dev, int left_vol_per, int right_vol_per)$/;"	f
+libaudio_pause_play	libaudio.c	/^int libaudio_pause_play(void)$/;"	f
+libaudio_play_file	libaudio.c	/^int libaudio_play_file(char *pfile, char *param, int wait_stop, bool alsa)$/;"	f
+libconv_add_bcc	libconv.c	/^void libconv_add_bcc(char *buf, const unsigned int buflen)$/;"	f
+libconv_asc2hex	libconv.c	/^unsigned char libconv_asc2hex(const char ascode)$/;"	f
+libconv_ascs2hex	libconv.c	/^int libconv_ascs2hex(char *hex, const char *ascs, const unsigned int asclen)$/;"	f
+libconv_bcd2ulong	libconv.c	/^void libconv_bcd2ulong(unsigned long *hex, unsigned char *bcd, int bcd_len)$/;"	f
+libconv_chk_asc	libconv.c	/^int libconv_chk_asc(const char ascode)$/;"	f
+libconv_chk_bcdformat	libconv.c	/^int libconv_chk_bcdformat(unsigned char *bcd, int bcd_len)$/;"	f
+libconv_chk_bcdtime_format	libconv.c	/^int libconv_chk_bcdtime_format(unsigned char *bcdtm, int bcd_len)$/;"	f
+libconv_code_convert	libconv.c	/^int  libconv_code_convert(char *from_charset, char *to_charset, $/;"	f
+libconv_hex2str	libconv.c	/^void libconv_hex2str(char *str, const char *hex, const unsigned int hexlen)$/;"	f
+libconv_str2hex	libconv.c	/^void libconv_str2hex(char *hex, unsigned int *hex_len, const char *str)$/;"	f
+libconv_uint2bcd	libconv.c	/^void libconv_uint2bcd(unsigned char *bcd, int len, unsigned int x)$/;"	f
+libconv_unicode2gb2312	libconv.c	/^int libconv_unicode2gb2312(const char *inbuf, size_t inlen, char *outbuf, size_t *outlen)$/;"	f
+libiso14443a_anticoll	libiso14443a.c	/^int	libiso14443a_anticoll(unsigned char select_code, unsigned char bcnt, unsigned char *snr)$/;"	f
+libiso14443a_authentication	libiso14443a.c	/^int	libiso14443a_authentication(unsigned char auth_mode, const unsigned char *snr, $/;"	f
+libiso14443a_close	libiso14443a.c	/^int	libiso14443a_close(void)$/;"	f
+libiso14443a_decrement	libiso14443a.c	/^int	libiso14443a_decrement(unsigned int val)$/;"	f
+libiso14443a_get_fd	libiso14443a.c	/^int	libiso14443a_get_fd(void)$/;"	f
+libiso14443a_halt	libiso14443a.c	/^int	libiso14443a_halt(void)$/;"	f
+libiso14443a_increment	libiso14443a.c	/^int	libiso14443a_increment(unsigned int val)$/;"	f
+libiso14443a_init	libiso14443a.c	/^int	libiso14443a_init(void)$/;"	f
+libiso14443a_open	libiso14443a.c	/^int	libiso14443a_open(char *dev, int speed)$/;"	f
+libiso14443a_put_fd	libiso14443a.c	/^int	libiso14443a_put_fd(void)$/;"	f
+libiso14443a_readblock	libiso14443a.c	/^int	libiso14443a_readblock(unsigned char blknum, unsigned char *block_data)$/;"	f
+libiso14443a_request	libiso14443a.c	/^int	libiso14443a_request(unsigned char req_code, unsigned char *atq)$/;"	f
+libiso14443a_restore	libiso14443a.c	/^int	libiso14443a_restore(unsigned char blknum)$/;"	f
+libiso14443a_select	libiso14443a.c	/^int	libiso14443a_select(unsigned char select_code, unsigned char *snr, unsigned char *sak)$/;"	f
+libiso14443a_transfer	libiso14443a.c	/^int	libiso14443a_transfer(unsigned char blknum)$/;"	f
+libiso14443a_value	libiso14443a.c	/^int	libiso14443a_value(unsigned char mode, unsigned long value)$/;"	f
+libiso14443a_writeblock	libiso14443a.c	/^int	libiso14443a_writeblock(const unsigned char blknum, const unsigned char *block_data)$/;"	f
+libiso14443hex_close	libiso14443hex.c	/^int	libiso14443hex_close(void)$/;"	f
+libiso14443hex_init	libiso14443hex.c	/^int	libiso14443hex_init(void)$/;"	f
+libiso14443hex_open	libiso14443hex.c	/^int	libiso14443hex_open(char *dev, int speed)$/;"	f
+libiso14443hex_package	libiso14443hex.h	/^typedef struct libiso14443hex_package{$/;"	s
+libiso14443hex_put_fd	libiso14443hex.c	/^int	libiso14443hex_put_fd(void)$/;"	f
+libiso14443hex_recvpack	libiso14443hex.c	/^int	libiso14443hex_recvpack(piso14443hex_package_t ack, const int tmout)$/;"	f
+libiso14443hex_sam_exchange	libiso14443hex.c	/^int	libiso14443hex_sam_exchange(unsigned char socket, $/;"	f
+libiso14443hex_sam_reset	libiso14443hex.c	/^int	libiso14443hex_sam_reset(uint8_t socket, char *atr, uint8_t *atrlen)$/;"	f
+libiso14443hex_sam_socket_set	libiso14443hex.c	/^int	libiso14443hex_sam_socket_set(uint8_t socket, uint8_t rate_idx)$/;"	f
+libiso14443hex_sendpack	libiso14443hex.c	/^int	libiso14443hex_sendpack(uint8_t cmd, char *buf, uint16_t buflen)$/;"	f
+libiso7816_close	libiso7816.c	/^int	libiso7816_close(void)$/;"	f
+libiso7816_exchange	libiso7816.c	/^int	libiso7816_exchange(unsigned char socket, $/;"	f
+libiso7816_get_fd	libiso7816.c	/^int	libiso7816_get_fd(void)$/;"	f
+libiso7816_open	libiso7816.c	/^int	libiso7816_open(char *dev, int speed)$/;"	f
+libiso7816_put_fd	libiso7816.c	/^int	libiso7816_put_fd(void)$/;"	f
+libiso7816_sam_reset	libiso7816.c	/^int	libiso7816_sam_reset(unsigned char socket, char *atr, unsigned char *atrlen)$/;"	f
+libiso7816_socket_set	libiso7816.c	/^int	libiso7816_socket_set(unsigned char socket, unsigned char rate_idx)$/;"	f
+libmisc_calc_addval	libmisc.c	/^uint8_t libmisc_calc_addval(const uint8_t *src, const int len)$/;"	f
+libmisc_calc_xorval	libmisc.c	/^uint8_t libmisc_calc_xorval(const uint8_t *src, const int len)$/;"	f
+libmisc_get_netlink_status	libmisc.c	/^int libmisc_get_netlink_status(int chkroot, const char *if_name)$/;"	f
+libserial_chang_baud	libserial.c	/^void libserial_chang_baud(int fd, int speed)$/;"	f
+libserial_close	libserial.c	/^int libserial_close(int fd)$/;"	f
+libserial_init	libserial.c	/^int libserial_init(char *dev, int speed, int parity, int databits, int stopbits, int hwf, int swf)$/;"	f
+libserial_null_read	libserial.c	/^void libserial_null_read(int fd)$/;"	f
+libserial_re_set	libserial.c	/^int libserial_re_set(int fd, struct termios *save_tios)$/;"	f
+libserial_recv_package	libserial.c	/^int libserial_recv_package(int fd, const char begin, const char end, char *buf, int buflen, const int tmout)$/;"	f
+libserial_save_set	libserial.c	/^int libserial_save_set(int fd, struct termios *save_tios)$/;"	f
+libserial_send_package	libserial.c	/^int libserial_send_package(int fd, const char *buf, const int buflen)$/;"	f
+libserial_set_rts	libserial.c	/^void libserial_set_rts(int fd, int st)$/;"	f
+libtm_bcdtime_cmp	libtm.c	/^int libtm_bcdtime_cmp(const unsigned char *bcdtm1, const unsigned char *bcdtm2, const unsigned char len)$/;"	f
+libtm_bcdtm2hextm	libtm.c	/^void libtm_bcdtm2hextm(unsigned char *hextm, unsigned char *bcdtm)$/;"	f
+libtm_get_bcdtime	libtm.c	/^void libtm_get_bcdtime(unsigned char *bcdtm)$/;"	f
+libtm_getdate	libtm.c	/^void libtm_getdate(date_type_t *d)$/;"	f
+libtm_gettime	libtm.c	/^void libtm_gettime(time_type_t *t)$/;"	f
+libtm_set_sysbcdtime	libtm.c	/^int libtm_set_sysbcdtime(char *bcddt)$/;"	f
+list_entries	inifile-0.2/inifile.c	/^list_entries (PCONFIG pCfg, const char * lpszSection, char * lpszRetBuffer, int cbRetBuffer)$/;"	f
+list_sections	inifile-0.2/inifile.c	/^list_sections (PCONFIG pCfg, char * lpszRetBuffer, int cbRetBuffer)$/;"	f
+log_progress	ftplib-3.1-1/src/qftp.c	/^static int log_progress(netbuf *ctl, int xfered, void *arg)$/;"	f	file:
+log_progress	ftplib-3.1-1/vms/qftp.c	/^static int log_progress(netbuf *ctl, int xfered, void *arg)$/;"	f	file:
+logged_in	ftplib-3.1-1/src/qftp.c	/^static int logged_in = 0;$/;"	v	file:
+logged_in	ftplib-3.1-1/vms/qftp.c	/^static int logged_in = 0;$/;"	v	file:
+main	3des/test.c	/^int main()$/;"	f
+main	3des/test.c	/^int main(void)$/;"	f
+main	ftplib-3.1-1/old/ftpdir.c	/^void main(int argc, char *argv[])$/;"	f
+main	ftplib-3.1-1/old/ftpget.c	/^void main(int argc, char *argv[])$/;"	f
+main	ftplib-3.1-1/old/ftpsend.c	/^void main(int argc, char *argv[])$/;"	f
+main	ftplib-3.1-1/src/qftp.c	/^int main(int argc, char *argv[])$/;"	f
+main	ftplib-3.1-1/vms/qftp.c	/^int main(int argc, char *argv[])$/;"	f
+main	inifile-0.2/examples/delete.c	/^int main()$/;"	f
+main	inifile-0.2/examples/read.c	/^int main()$/;"	f
+main	inifile-0.2/examples/write.c	/^int main()$/;"	f
+main	tmp/main.c	/^int main(void)$/;"	f
+main	wavplay/wavplay.c	/^int main(int argc, char *argv[])$/;"	f
+maxEntries	inifile-0.2/inifile.h	/^    unsigned int maxEntries;$/;"	m	struct:TCFGDATA
+memccpy	ftplib-3.1-1/src/ftplib.c	/^void *memccpy(void *dest, const void *src, int c, size_t n)$/;"	f
+min	libtm.h	/^    char	min;$/;"	m	struct:time_type
+mixer	libsound.c	/^snd_mixer_t *mixer;$/;"	v
+mode	ftplib-3.1-1/src/qftp.c	/^static char mode = 'I';$/;"	v	file:
+mode	ftplib-3.1-1/vms/qftp.c	/^static char mode = 'I';$/;"	v	file:
+mon	libtm.h	/^    char	mon;$/;"	m	struct:time_type
+mon	libtm.h	/^    int mon;$/;"	m	struct:date_type
+mtime	inifile-0.2/inifile.h	/^    time_t mtime;		\/* Modification time *\/$/;"	m	struct:TCFGDATA
+name_arr	libserial.c	/^const int name_arr[] = {230400, 115200, 57600, 38400,  19200,  9600, 4800, 2400, 1200,  300, 0};$/;"	v
+net_close	ftplib-3.1-1/src/ftplib.c	102;"	d	file:
+net_close	ftplib-3.1-1/src/ftplib.c	98;"	d	file:
+net_read	ftplib-3.1-1/src/ftplib.c	100;"	d	file:
+net_read	ftplib-3.1-1/src/ftplib.c	96;"	d	file:
+net_write	ftplib-3.1-1/src/ftplib.c	101;"	d	file:
+net_write	ftplib-3.1-1/src/ftplib.c	97;"	d	file:
+netbuf	ftplib-3.1-1/src/ftplib.h	/^typedef struct NetBuf netbuf;$/;"	t	typeref:struct:NetBuf
+next	ftplib-3.1-1/src/qftp.c	/^    struct REMFILE *next;$/;"	m	struct:REMFILE	typeref:struct:REMFILE::REMFILE	file:
+numEntries	inifile-0.2/inifile.h	/^    unsigned int numEntries;$/;"	m	struct:TCFGDATA
+optarg	ftplib-3.1-1/vms/getopt.c	/^	*optarg;		\/\/ argument associated with option$/;"	v
+opterr	ftplib-3.1-1/vms/getopt.c	/^	opterr = 1,		\/\/ should error messages be printed?$/;"	v
+optind	ftplib-3.1-1/vms/getopt.c	/^	optind = 1,		\/\/ index into parent argv vector$/;"	v
+optopt	ftplib-3.1-1/vms/getopt.c	/^	optopt;			\/\/ character checked for validity$/;"	v
+pass	ftplib-3.1-1/src/qftp.c	/^static char *pass = NULL;$/;"	v	file:
+pass	ftplib-3.1-1/vms/qftp.c	/^static char *pass = NULL;$/;"	v	file:
+pcm_element	libsound.c	/^snd_mixer_elem_t *pcm_element;$/;"	v
+piso14443hex_package_t	libiso14443hex.h	/^typedef iso14443hex_package_t* piso14443hex_package_t;$/;"	t
+print1	inifile-0.2/examples/read.c	/^void print1()$/;"	f
+print2	inifile-0.2/examples/read.c	/^void print2()$/;"	f
+print3	inifile-0.2/examples/read.c	/^void print3()$/;"	f
+process_file	ftplib-3.1-1/src/qftp.c	/^void process_file(char *fnm)$/;"	f
+process_file	ftplib-3.1-1/vms/qftp.c	/^void process_file(char *fnm)$/;"	f
+progname	ftplib-3.1-1/vms/getopt.c	/^char *progname;			\/\/ may also be defined elsewhere$/;"	v
+readline	ftplib-3.1-1/src/ftplib.c	/^static int readline(char *buf,int max,netbuf *ctl)$/;"	f	file:
+readresp	ftplib-3.1-1/src/ftplib.c	/^static int readresp(char c, netbuf *nControl)$/;"	f	file:
+remove_quotes	inifile-0.2/inifile.c	/^remove_quotes(const char *szString)$/;"	f
+response	ftplib-3.1-1/src/ftplib.c	/^    char response[256];$/;"	m	struct:NetBuf	file:
+rtrim	inifile-0.2/inifile.c	/^rtrim (char *str)$/;"	f	file:
+sec	libtm.h	/^    char	sec;$/;"	m	struct:time_type
+section	inifile-0.2/inifile.h	/^    char *section;$/;"	m	struct:TCFGDATA
+section	inifile-0.2/inifile.h	/^    char *section;$/;"	m	struct:TCFGENTRY
+set_umask	ftplib-3.1-1/src/qftp.c	/^void set_umask(char *m)$/;"	f
+set_umask	ftplib-3.1-1/vms/qftp.c	/^void set_umask(char *m)$/;"	f
+single_des	libpriv_crypt.c	/^void single_des(unsigned char *dest, unsigned char *src, char *inkey, int flg)$/;"	f
+size	inifile-0.2/inifile.h	/^    size_t size;		\/* Size of this copy (excl. \\0) *\/$/;"	m	struct:TCFGDATA
+socket_wait	ftplib-3.1-1/src/ftplib.c	/^static int socket_wait(netbuf *ctl)$/;"	f	file:
+sound_device_names	libaudio.c	/^const char *sound_device_names[] = SOUND_DEVICE_NAMES;$/;"	v
+speed_arr	libserial.c	/^const int speed_arr[] = {B230400, B115200, B57600, B38400, B19200, B9600, B4800, B2400, B1200, B300,B0};$/;"	v
+srcdir	inifile-0.2/Makefile	/^srcdir = .$/;"	m
+status	libiso14443hex.h	/^	int		status;		\/\/ 状态字$/;"	m	struct:libiso14443hex_package
+strcasecmp	inifile-0.2/inifile.c	/^strcasecmp (const char *s1, const char *s2)$/;"	f	file:
+strdup	ftplib-3.1-1/src/ftplib.c	/^char *strdup(const char *src)$/;"	f
+test	tmp/myalib.c	/^void test(void)$/;"	f
+time_type	libtm.h	/^typedef struct time_type{$/;"	s
+time_type_t	libtm.h	/^}time_type_t;$/;"	t	typeref:struct:time_type
+u16	libtypes.h	/^	uint16_t u16;$/;"	m	union:u8_to_u16
+u32	libtypes.h	/^	uint32_t u32;$/;"	m	union:u8_to_u32
+u8	libtypes.h	/^	uint8_t u8[2];$/;"	m	union:u8_to_u16
+u8	libtypes.h	/^	uint8_t u8[4];$/;"	m	union:u8_to_u32
+u8_to_u16	libtypes.h	/^typedef union u8_to_u16{$/;"	u
+u8_to_u16_t	libtypes.h	/^}u8_to_u16_t;$/;"	t	typeref:union:u8_to_u16
+u8_to_u32	libtypes.h	/^typedef union u8_to_u32{$/;"	u
+u8_to_u32_t	libtypes.h	/^}u8_to_u32_t;$/;"	t	typeref:union:u8_to_u32
+usage	ftplib-3.1-1/old/ftpdir.c	/^static void usage(char *cmd)$/;"	f	file:
+usage	ftplib-3.1-1/old/ftpget.c	/^void usage(char *cmd)$/;"	f
+usage	ftplib-3.1-1/old/ftpsend.c	/^void usage(char *cmd)$/;"	f
+usage	ftplib-3.1-1/src/qftp.c	/^void usage(void)$/;"	f
+usage	ftplib-3.1-1/vms/qftp.c	/^void usage(void)$/;"	f
+user	ftplib-3.1-1/src/qftp.c	/^static char *user = NULL;$/;"	v	file:
+user	ftplib-3.1-1/vms/qftp.c	/^static char *user = NULL;$/;"	v	file:
+value	inifile-0.2/inifile.h	/^    char *value;$/;"	m	struct:TCFGDATA
+value	inifile-0.2/inifile.h	/^    char *value;$/;"	m	struct:TCFGENTRY
+version	ftplib-3.1-1/src/ftplib.c	/^static char *version =$/;"	v	file:
+wildcard	ftplib-3.1-1/src/qftp.c	/^static int wildcard = 0;$/;"	v	file:
+writeline	ftplib-3.1-1/src/ftplib.c	/^static int writeline(char *buf, int len, netbuf *nData)$/;"	f	file:
+xfered	ftplib-3.1-1/src/ftplib.c	/^    int xfered;$/;"	m	struct:NetBuf	file:
+xfered1	ftplib-3.1-1/src/ftplib.c	/^    int xfered1;$/;"	m	struct:NetBuf	file:
+year	libtm.h	/^    int		year;$/;"	m	struct:time_type
+year	libtm.h	/^    int year;$/;"	m	struct:date_type

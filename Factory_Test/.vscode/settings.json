@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "libserial.h": "c",
+        "time.h": "c",
+        "rtc.h": "c",
+        "string.h": "c",
+        "features.h": "c",
+        "zlog.h": "c"
+    }
+}

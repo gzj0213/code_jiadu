@@ -1,0 +1,100 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AR	Makefile	/^AR = ar$/;"	m
+ARFLAGS	Makefile	/^ARFLAGS = -rc$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CFE_MUST_FREE_COMMENT	inifile.h	56;"	d
+CFE_MUST_FREE_ID	inifile.h	54;"	d
+CFE_MUST_FREE_SECTION	inifile.h	53;"	d
+CFE_MUST_FREE_VALUE	inifile.h	55;"	d
+CFG_CONTINUE	inifile.h	90;"	d
+CFG_DEFINE	inifile.h	89;"	d
+CFG_EOF	inifile.h	85;"	d
+CFG_ERROR	inifile.h	87;"	d
+CFG_MAX_LINE_LENGTH	inifile.h	39;"	d
+CFG_SECTION	inifile.h	88;"	d
+CFG_TYPE	inifile.h	93;"	d
+CFG_TYPEMASK	inifile.h	92;"	d
+CFG_VALID	inifile.h	84;"	d
+CFLAGS	Makefile	/^CFLAGS = -fPIC$/;"	m
+CSOURCES	Makefile	/^CSOURCES = $(srcdir)\/inifile.c$/;"	m
+GetPrivateProfileInt	inifile.c	/^int GetPrivateProfileInt (char * lpszSection, char * lpszEntry,$/;"	f
+GetPrivateProfileString	inifile.c	/^int GetPrivateProfileString (char * lpszSection, char * lpszEntry,$/;"	f
+HSOURCES	Makefile	/^HSOURCES = $(srcdir)\/inifile.h$/;"	m
+OBJECTS	Makefile	/^OBJECTS = inifile.o$/;"	m
+O_BINARY	inifile.c	45;"	d	file:
+PCFGENTRY	inifile.h	/^TCFGENTRY, *PCFGENTRY;$/;"	t	typeref:struct:TCFGENTRY
+PCONFIG	inifile.h	/^TCONFIG, *PCONFIG;$/;"	t	typeref:struct:TCFGDATA
+SHARE_LIBS	Makefile	/^SHARE_LIBS = libinifile.so$/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+STATIC_LIBS	Makefile	/^STATIC_LIBS = libinifile.a$/;"	m
+TCFGDATA	inifile.h	/^typedef struct TCFGDATA$/;"	s
+TCFGENTRY	inifile.h	/^TCFGENTRY, *PCFGENTRY;$/;"	t	typeref:struct:TCFGENTRY
+TCFGENTRY	inifile.h	/^typedef struct TCFGENTRY$/;"	s
+TCONFIG	inifile.h	/^TCONFIG, *PCONFIG;$/;"	t	typeref:struct:TCFGDATA
+WritePrivateProfileString	inifile.c	/^int WritePrivateProfileString (char * lpszSection, char * lpszEntry,$/;"	f
+_INIFILE_H	inifile.h	27;"	d
+_cfg_getline	inifile.c	/^_cfg_getline (char **pCp, char **pLinePtr)$/;"	f	file:
+_cfg_outputformatted	inifile.c	/^_cfg_outputformatted (PCONFIG pconfig, FILE *fd)$/;"	f	file:
+_cfg_parse	inifile.c	/^_cfg_parse (PCONFIG pconfig)$/;"	f	file:
+_cfg_poolalloc	inifile.c	/^_cfg_poolalloc (PCONFIG p, unsigned int count)$/;"	f	file:
+_cfg_skipwhite	inifile.c	/^_cfg_skipwhite (char *s)$/;"	f	file:
+cfg_commit	inifile.c	/^cfg_commit (PCONFIG pconfig)$/;"	f
+cfg_cont	inifile.h	98;"	d
+cfg_define	inifile.h	97;"	d
+cfg_done	inifile.c	/^cfg_done (PCONFIG pconfig)$/;"	f
+cfg_eof	inifile.h	95;"	d
+cfg_file_exist	inifile.c	/^cfg_file_exist (const char *filename)$/;"	f
+cfg_find	inifile.c	/^cfg_find (PCONFIG pconfig, char *section, char *id)$/;"	f
+cfg_freeimage	inifile.c	/^cfg_freeimage (PCONFIG pconfig)$/;"	f
+cfg_get_item	inifile.c	/^int cfg_get_item (PCONFIG pconfig, char *section, char *id, char * fmt, ...)$/;"	f
+cfg_getint	inifile.c	/^int cfg_getint (PCONFIG pconfig, char *section, char *id, int *valptr)$/;"	f
+cfg_getlong	inifile.c	/^int cfg_getlong (PCONFIG pconfig, char *section, char *id, long *valptr)$/;"	f
+cfg_getstring	inifile.c	/^int cfg_getstring (PCONFIG pconfig, char *section, char *id, char *valptr)$/;"	f
+cfg_init	inifile.c	/^cfg_init (PCONFIG *ppconf, const char *filename, int doCreate)$/;"	f
+cfg_next_section	inifile.c	/^cfg_next_section(PCONFIG pconfig)$/;"	f
+cfg_nextentry	inifile.c	/^cfg_nextentry (PCONFIG pconfig)$/;"	f
+cfg_refresh	inifile.c	/^cfg_refresh (PCONFIG pconfig)$/;"	f
+cfg_rewind	inifile.c	/^cfg_rewind (PCONFIG pconfig)$/;"	f
+cfg_section	inifile.h	96;"	d
+cfg_storeentry	inifile.c	/^cfg_storeentry ($/;"	f
+cfg_valid	inifile.h	94;"	d
+cfg_write	inifile.c	/^cfg_write ($/;"	f
+cfg_write_item	inifile.c	/^int cfg_write_item(PCONFIG pconfig, char *section, char *id, char * fmt, ...)$/;"	f
+comment	inifile.h	/^    char *comment;$/;"	m	struct:TCFGDATA
+comment	inifile.h	/^    char *comment;$/;"	m	struct:TCFGENTRY
+cursor	inifile.h	/^    unsigned int cursor;$/;"	m	struct:TCFGDATA
+dirty	inifile.h	/^    int dirty;			\/* Did we make modifications? *\/$/;"	m	struct:TCFGDATA
+entries	inifile.h	/^    PCFGENTRY entries;$/;"	m	struct:TCFGDATA
+fileName	inifile.h	/^    char *fileName;		\/* Current file name *\/$/;"	m	struct:TCFGDATA
+flags	inifile.h	/^    unsigned short flags;$/;"	m	struct:TCFGDATA
+flags	inifile.h	/^    unsigned short flags;$/;"	m	struct:TCFGENTRY
+id	inifile.h	/^    char *id;$/;"	m	struct:TCFGDATA
+id	inifile.h	/^    char *id;$/;"	m	struct:TCFGENTRY
+image	inifile.h	/^    char *image;		\/* In-memory copy of the file *\/$/;"	m	struct:TCFGDATA
+iseolchar	inifile.c	255;"	d	file:
+iswhite	inifile.c	256;"	d	file:
+list_entries	inifile.c	/^list_entries (PCONFIG pCfg, const char * lpszSection, char * lpszRetBuffer, int cbRetBuffer)$/;"	f
+list_sections	inifile.c	/^list_sections (PCONFIG pCfg, char * lpszRetBuffer, int cbRetBuffer)$/;"	f
+main	examples/delete.c	/^int main()$/;"	f
+main	examples/read.c	/^int main()$/;"	f
+main	examples/write.c	/^int main()$/;"	f
+maxEntries	inifile.h	/^    unsigned int maxEntries;$/;"	m	struct:TCFGDATA
+mtime	inifile.h	/^    time_t mtime;		\/* Modification time *\/$/;"	m	struct:TCFGDATA
+numEntries	inifile.h	/^    unsigned int numEntries;$/;"	m	struct:TCFGDATA
+print1	examples/read.c	/^void print1()$/;"	f
+print2	examples/read.c	/^void print2()$/;"	f
+print3	examples/read.c	/^void print3()$/;"	f
+remove_quotes	inifile.c	/^remove_quotes(const char *szString)$/;"	f
+rtrim	inifile.c	/^rtrim (char *str)$/;"	f	file:
+section	inifile.h	/^    char *section;$/;"	m	struct:TCFGDATA
+section	inifile.h	/^    char *section;$/;"	m	struct:TCFGENTRY
+size	inifile.h	/^    size_t size;		\/* Size of this copy (excl. \\0) *\/$/;"	m	struct:TCFGDATA
+srcdir	Makefile	/^srcdir = .$/;"	m
+strcasecmp	inifile.c	/^strcasecmp (const char *s1, const char *s2)$/;"	f	file:
+value	inifile.h	/^    char *value;$/;"	m	struct:TCFGDATA
+value	inifile.h	/^    char *value;$/;"	m	struct:TCFGENTRY
